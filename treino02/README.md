@@ -13,4 +13,4 @@
 
 ## Moda
 
-<div style="text-align: justify"></div>
+<div style="text-align: justify">A moda é o valor que ocorre com mais frequência entre todos os valores. </div>
