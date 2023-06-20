@@ -20,7 +20,7 @@ Você pode pedir ao usuário as duas datas ou apenas pedir a data de nascimento 
    - m: mês do nascimento 
    - d: dia do nascimento  
 
-2. Logo após, estou importando o módulo datetime em Python dentro da função
+2. Logo após, estou importando o módulo datetime em Python 
 3. Então, na próxima linha, estou pegando a data de hoje usando o método datetime.now() do módulo datetime
 4. Em seguida, introduzi uma nova variável na próxima linha como data_nascimento, onde estou usando a data de nascimento como entrada fornecida pelo usuário
 5. Por fim, subtraio o data_nascimento com a data de hoje e dividindo por 365,25 e em seguida é retornada a idade do usuário.
